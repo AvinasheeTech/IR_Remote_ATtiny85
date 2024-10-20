@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.youtube.com/AvinasheeTech">
+  <a href="https://www.youtube.com/@eccentric_engineer">
 	<img
 		width="300"
 		alt="Avinashee Tech"
