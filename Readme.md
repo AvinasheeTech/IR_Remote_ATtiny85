@@ -3,7 +3,7 @@
 	<img
 		width="300"
 		alt="Avinashee Tech"
-		src="img/Avinashee_Tech_Logo.png">
+		src="img/Avinashee Tech Logo.jpg">
   </a>  
 </h1>
 
