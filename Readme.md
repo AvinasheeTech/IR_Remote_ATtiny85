@@ -24,7 +24,7 @@ correct remote control interface to control our device then connect our sensor w
 analyzer using Logic Software.
 Learn more 👇👇  
   
-[![IR_Remote Youtube Video](img/IRRemoteYoutubeThumbnail.png)](https://youtu.be/9isO4R13i0A?si=mk0SPho4BUEahCk1)
+[![IR_Remote Youtube Video](img/IRRemoteYouTubeThumbnail.png)](https://youtu.be/9isO4R13i0A?si=mk0SPho4BUEahCk1)
 
 ## ✔️ Requirements
 
