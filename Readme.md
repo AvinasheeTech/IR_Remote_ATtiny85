@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="https://www.youtube.com/@eccentric_engineer">
 	<img
-		width="300"
+		width="200"
 		alt="Avinashee Tech"
-		src="img/Avinashee Tech Logo.png">
+		src="img/Avinashee Tech Logo New.png">
   </a>  
 </h1>
 
@@ -24,7 +24,7 @@ correct remote control interface to control our device then connect our sensor w
 analyzer using Logic Software.
 Learn more 👇👇  
   
-[![IR_Remote Youtube Video](https://img.youtube.com/vi/9isO4R13i0A/0.jpg)](https://youtu.be/9isO4R13i0A?si=mk0SPho4BUEahCk1)
+[![IR_Remote Youtube Video](img/IRRemoteYoutubeThumbnail.png)](https://youtu.be/9isO4R13i0A?si=mk0SPho4BUEahCk1)
 
 ## ✔️ Requirements
 
@@ -60,7 +60,7 @@ Enjoy...🍹
 ```
 To learn more about how to upload code and create external tool for ATtiny85 on Atmel Studio, click link below 👇👇  
 
-[![USBasp Youtube Video](https://img.youtube.com/vi/PY9RVh3wAJM/0.jpg)](https://youtu.be/PY9RVh3wAJM?si=SjmBTnHeOB7SD06J)
+[![USBasp Youtube Video](img/GettingstartedATtiny85Thumbnail.png)](https://youtu.be/PY9RVh3wAJM?si=SjmBTnHeOB7SD06J)
 
 
 ## ⭐️ Show Your Support
